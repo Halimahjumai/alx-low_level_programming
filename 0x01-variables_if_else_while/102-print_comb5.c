@@ -20,7 +20,7 @@ int main(void)
 			putchar(' ');
 			putchar((b / 10) + '0');
 			putchar((b % 10) + '0');
-			if (a + a +b + b != 35)
+			if (a + a + b + b != 35)
 			{
 				putchar(',');
 				putchar(' ');
