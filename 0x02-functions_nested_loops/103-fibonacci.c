@@ -18,6 +18,6 @@ int main(void)
 	j = k - j;
 	++i;
 	}
-	printf("%ld\n", sum);
+	printf("%lu\n", sum);
 	return (0);
 }
